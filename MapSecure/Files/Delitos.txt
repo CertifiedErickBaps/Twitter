@@ -1,0 +1,24 @@
+asalto
+asaltar
+violacion
+violar
+secuestro
+secuestrar
+homicidio
+feminicidio
+robo
+robar
+acoso
+acosar
+hurto
+hurtar
+desbalijar
+balazo
+balacear
+golpearon
+acuchillar
+alerta amber
+desaparecido
+raptar
+balacera
+END
